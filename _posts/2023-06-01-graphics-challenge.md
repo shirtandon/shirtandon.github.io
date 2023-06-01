@@ -1,10 +1,18 @@
 ---
-title: Graphics Challenge Project
+title: Graphics Challenge Project - Fried Egg
 tags: [Projects, Javascript, Graphics]
 style: fill
 color: 
-description: 
+description: Creating an image of a fried egg in a pan
 ---
+
+This project was in the middle of two sections of our learning. We were both figuring out how to place objects on the Javascript canvas and practicing pair programming to our coding. This project, drawing an egg in a pan, shows our use of both skills. Here's a video: 
+
+<video width="600" controls="controls">
+  <source src="/assets/vids/graphics-challenge.mp4">
+</video>
+
+Below you can also see the code used for the project: 
 
 {% highlight javascript %}
 var PAN_RADIUS = getWidth()/3;
@@ -85,7 +93,3 @@ function addEggYolk() {
     add(eggHighlight);
 }
 {% endhighlight %}
-
-<video width="600" controls="controls">
-  <source src="/assets/vids/graphics-challenge.mp4">
-</video>
