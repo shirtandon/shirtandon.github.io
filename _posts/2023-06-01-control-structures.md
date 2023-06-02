@@ -9,7 +9,7 @@ description: Simulating two dice and rolling until you get snake eyes
 For this unit, we were learning how to control our code using loops, if statements, and much more. In this project, I used a simulation of two dice ad a loop-and-a-half structure to find out how many times it takes to roll snake eyes (two 1s). Here's a video: 
 
 <video width="600" controls="controls">
-  <source src="/assets/vids/graphics-challenge.mp4">
+  <source src="/assets/vids/control-structures.mp4">
 </video>
 
 Below you can also see the code used for the project: 
