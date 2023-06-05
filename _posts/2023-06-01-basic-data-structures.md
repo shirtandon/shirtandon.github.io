@@ -1,5 +1,5 @@
 ---
-title: Data Structures Project - Fried Egg
+title: Data Structures Project - Heads and Tails Simulator
 tags: [Projects, Javascript, Data Structures]
 style: fill
 color: 
